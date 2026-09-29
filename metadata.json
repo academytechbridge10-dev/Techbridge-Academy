@@ -1,0 +1,6 @@
+{
+  "name": "Techbridge Academy - Course Enquiry",
+  "description": "Official course enquiry portal for Techbridge Academy with course details and Google Workspace integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
